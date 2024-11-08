@@ -34,13 +34,16 @@ document.getElementById('form').addEventListener('submit', (event) => {
             display: flex;
             align-items: center;
             flex-direction: column;
+            gap: 20px
         }
       .resume-container {
         border: 1px solid black;
         padding: 20px;
       }
   
-      .profile-pic {  width: 150px;
+      .profile-pic {  
+       width: 300px;
+       height: 300px;
         border-radius: 50%;
       }
     `;
