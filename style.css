@@ -12,6 +12,9 @@ body {
 h2{
     color: rgba(0, 0, 255, 0.584);
 }
+form{
+    /* display: none; */
+}
 .form-container { 
     width: 100%; 
     max-width: 600px; 
